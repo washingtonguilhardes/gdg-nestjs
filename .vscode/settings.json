@@ -1,0 +1,87 @@
+{
+  "[markdown]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.autoIndent": "full",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true,
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "editor.linkedEditing": true,
+  "editor.renderWhitespace": "boundary",
+  "eslint.workingDirectories": ["./../src/**/*"],
+  "files.autoSave": "off",
+  "files.encoding": "utf8",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.expo": true,
+    "**/.git": true,
+    "**/.hg": true,
+    "**/.svn": true,
+    "**/CVS": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "files.watcherExclude": {
+    "**/*.spec.ts": true,
+    "**/.expo/*/**": true,
+    "**/.git/objects/*/**": true,
+    "**/.git/subtree-cache/*/**": true,
+    "**/android/*/**": true,
+    "**/bower_components/*/**": true,
+    "**/ios/*/**": true,
+    "**/lib/*/**": true,
+    "**/node_modules/*/**": true
+  },
+  "html.format.enable": false,
+  "javascript.format.enable": false,
+  "javascript.validate.enable": true,
+  "json.format.enable": false,
+  "search.useIgnoreFiles": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.jestCommandLine": "node_modules/.bin/jest",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#eda89b",
+    "activityBar.activeBorder": "#18872a",
+    "activityBar.background": "#eda89b",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#18872a",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#eda89b",
+    "statusBar.background": "#e58270",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#dd5c45",
+    "statusBarItem.remoteBackground": "#e58270",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#e58270",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#e5827099",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#e58270",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
