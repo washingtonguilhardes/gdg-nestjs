@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "AbhijoyBasak.nestjs-files",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "msjsdiag.debugger-for-chrome",
+    "IronGeek.vscode-env",
+    "eamodio.gitlens",
+    "MariusAlchimavicius.json-to-ts",
+    "Tyriar.lorem-ipsum"
+  ],
+  "unwantedRecommendations": []
+}
